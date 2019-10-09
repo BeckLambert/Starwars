@@ -1,0 +1,21 @@
+{
+  "name": "Starwars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeckyLambert/Starwars.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BeckyLambert/Starwars/issues"
+  },
+  "homepage": "https://github.com/BeckyLambert/Starwars#readme"
+}
