@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/BeckyLambert/Starwars/issues"
   },
-  "homepage": "https://github.com/BeckyLambert/Starwars#readme"
+  "homepage": "https://github.com/BeckyLambert/Starwars#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
